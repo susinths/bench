@@ -1,0 +1,300 @@
+
+/dev/rssda:
+
+ATA device, with non-removable media
+	Model Number:       DELL_P320h-MTFDGAL350SAH                
+	Serial Number:      00000000121302026026
+	Firmware Revision:  B1490208
+Standards:
+	Used: ATA/ATAPI-7 T13 1532D revision 4a 
+	Supported: 8 7 6 5 & some of 8
+Configuration:
+	Logical		max	current
+	cylinders	16383	16383
+	heads		15	15
+	sectors/track	63	63
+	--
+	CHS current addressable sectors:   15481935
+	LBA    user addressable sectors:  268435455
+	LBA48  user addressable sectors:  683747568
+	Logical  Sector size:                   512 bytes
+	Physical Sector size:                  4096 bytes
+	Logical Sector-0 offset:                  0 bytes
+	device size with M = 1024*1024:      333861 MBytes
+	device size with M = 1000*1000:      350078 MBytes (350 GB)
+	cache/buffer size  = unknown
+	Nominal Media Rotation Rate: Solid State Device
+Capabilities:
+	LBA, IORDY(can be disabled)
+	Queue depth: 32
+	Standby timer values: spec'd by Standard, no device specific minimum
+	R/W multiple sector transfer: Max = 16	Current = 16
+	DMA: mdma0 mdma1 mdma2 udma0 udma1 udma2 udma3 *udma4 udma5 udma6 
+	     Cycle time: min=120ns recommended=120ns
+	PIO: pio0 pio1 pio2 pio3 pio4 
+	     Cycle time: no flow control=120ns  IORDY flow control=120ns
+Commands/features:
+	Enabled	Supported:
+	   *	SMART feature set
+	    	Security Mode feature set
+	   *	Power Management feature set
+	   *	Host Protected Area feature set
+	   *	WRITE_BUFFER command
+	   *	READ_BUFFER command
+	   *	DOWNLOAD_MICROCODE
+	    	SET_MAX security extension
+	   *	48-bit Address feature set
+	   *	Device Configuration Overlay feature set
+	   *	Mandatory FLUSH_CACHE
+	   *	FLUSH_CACHE_EXT
+	   *	SMART error logging
+	   *	SMART self-test
+	   *	General Purpose Logging feature set
+	   *	WRITE_{DMA|MULTIPLE}_FUA_EXT
+	   *	64-bit World wide name
+	   *	Segmented DOWNLOAD_MICROCODE
+	   *	Gen1 signaling speed (1.5Gb/s)
+	   *	Gen2 signaling speed (3.0Gb/s)
+	   *	Native Command Queueing (NCQ)
+	   *	Non-Zero buffer offsets in DMA Setup FIS
+	    	DMA Setup Auto-Activate optimization
+	    	In-order data delivery
+Security: 
+	Master password revision code = 1
+		supported
+	not	enabled
+	not	locked
+	not	frozen
+	not	expired: security count
+	not	supported: enhanced erase
+	4min for SECURITY ERASE UNIT. 
+Logical Unit WWN Device Identifier: 500a075102026026
+	NAA		: 5
+	IEEE OUI	: 00a075
+	Unique ID	: 102026026
+Checksum: correct
+
+/dev/rssdb:
+
+ATA device, with non-removable media
+	Model Number:       DELL_P320h-MTFDGAL350SAH                
+	Serial Number:      000000001201020175D4
+	Firmware Revision:  B1490208
+Standards:
+	Used: ATA/ATAPI-7 T13 1532D revision 4a 
+	Supported: 8 7 6 5 & some of 8
+Configuration:
+	Logical		max	current
+	cylinders	16383	16383
+	heads		15	15
+	sectors/track	63	63
+	--
+	CHS current addressable sectors:   15481935
+	LBA    user addressable sectors:  268435455
+	LBA48  user addressable sectors:  683747568
+	Logical  Sector size:                   512 bytes
+	Physical Sector size:                  4096 bytes
+	Logical Sector-0 offset:                  0 bytes
+	device size with M = 1024*1024:      333861 MBytes
+	device size with M = 1000*1000:      350078 MBytes (350 GB)
+	cache/buffer size  = unknown
+	Nominal Media Rotation Rate: Solid State Device
+Capabilities:
+	LBA, IORDY(can be disabled)
+	Queue depth: 32
+	Standby timer values: spec'd by Standard, no device specific minimum
+	R/W multiple sector transfer: Max = 16	Current = 16
+	DMA: mdma0 mdma1 mdma2 udma0 udma1 udma2 udma3 *udma4 udma5 udma6 
+	     Cycle time: min=120ns recommended=120ns
+	PIO: pio0 pio1 pio2 pio3 pio4 
+	     Cycle time: no flow control=120ns  IORDY flow control=120ns
+Commands/features:
+	Enabled	Supported:
+	   *	SMART feature set
+	    	Security Mode feature set
+	   *	Power Management feature set
+	   *	Host Protected Area feature set
+	   *	WRITE_BUFFER command
+	   *	READ_BUFFER command
+	   *	DOWNLOAD_MICROCODE
+	    	SET_MAX security extension
+	   *	48-bit Address feature set
+	   *	Device Configuration Overlay feature set
+	   *	Mandatory FLUSH_CACHE
+	   *	FLUSH_CACHE_EXT
+	   *	SMART error logging
+	   *	SMART self-test
+	   *	General Purpose Logging feature set
+	   *	WRITE_{DMA|MULTIPLE}_FUA_EXT
+	   *	64-bit World wide name
+	   *	Segmented DOWNLOAD_MICROCODE
+	   *	Gen1 signaling speed (1.5Gb/s)
+	   *	Gen2 signaling speed (3.0Gb/s)
+	   *	Native Command Queueing (NCQ)
+	   *	Non-Zero buffer offsets in DMA Setup FIS
+	    	DMA Setup Auto-Activate optimization
+	    	In-order data delivery
+Security: 
+	Master password revision code = 1
+		supported
+	not	enabled
+	not	locked
+	not	frozen
+	not	expired: security count
+	not	supported: enhanced erase
+	4min for SECURITY ERASE UNIT. 
+Logical Unit WWN Device Identifier: 500a0751020175d4
+	NAA		: 5
+	IEEE OUI	: 00a075
+	Unique ID	: 1020175d4
+Checksum: correct
+
+/dev/rssdc:
+
+ATA device, with non-removable media
+	Model Number:       DELL_P320h-MTFDGAL350SAH                
+	Serial Number:      000000001201020175D5
+	Firmware Revision:  B1490208
+Standards:
+	Used: ATA/ATAPI-7 T13 1532D revision 4a 
+	Supported: 8 7 6 5 & some of 8
+Configuration:
+	Logical		max	current
+	cylinders	16383	16383
+	heads		15	15
+	sectors/track	63	63
+	--
+	CHS current addressable sectors:   15481935
+	LBA    user addressable sectors:  268435455
+	LBA48  user addressable sectors:  683747568
+	Logical  Sector size:                   512 bytes
+	Physical Sector size:                  4096 bytes
+	Logical Sector-0 offset:                  0 bytes
+	device size with M = 1024*1024:      333861 MBytes
+	device size with M = 1000*1000:      350078 MBytes (350 GB)
+	cache/buffer size  = unknown
+	Nominal Media Rotation Rate: Solid State Device
+Capabilities:
+	LBA, IORDY(can be disabled)
+	Queue depth: 32
+	Standby timer values: spec'd by Standard, no device specific minimum
+	R/W multiple sector transfer: Max = 16	Current = 16
+	DMA: mdma0 mdma1 mdma2 udma0 udma1 udma2 udma3 *udma4 udma5 udma6 
+	     Cycle time: min=120ns recommended=120ns
+	PIO: pio0 pio1 pio2 pio3 pio4 
+	     Cycle time: no flow control=120ns  IORDY flow control=120ns
+Commands/features:
+	Enabled	Supported:
+	   *	SMART feature set
+	    	Security Mode feature set
+	   *	Power Management feature set
+	   *	Host Protected Area feature set
+	   *	WRITE_BUFFER command
+	   *	READ_BUFFER command
+	   *	DOWNLOAD_MICROCODE
+	    	SET_MAX security extension
+	   *	48-bit Address feature set
+	   *	Device Configuration Overlay feature set
+	   *	Mandatory FLUSH_CACHE
+	   *	FLUSH_CACHE_EXT
+	   *	SMART error logging
+	   *	SMART self-test
+	   *	General Purpose Logging feature set
+	   *	WRITE_{DMA|MULTIPLE}_FUA_EXT
+	   *	64-bit World wide name
+	   *	Segmented DOWNLOAD_MICROCODE
+	   *	Gen1 signaling speed (1.5Gb/s)
+	   *	Gen2 signaling speed (3.0Gb/s)
+	   *	Native Command Queueing (NCQ)
+	   *	Non-Zero buffer offsets in DMA Setup FIS
+	    	DMA Setup Auto-Activate optimization
+	    	In-order data delivery
+Security: 
+	Master password revision code = 1
+		supported
+	not	enabled
+	not	locked
+	not	frozen
+	not	expired: security count
+	not	supported: enhanced erase
+	4min for SECURITY ERASE UNIT. 
+Logical Unit WWN Device Identifier: 500a0751020175d5
+	NAA		: 5
+	IEEE OUI	: 00a075
+	Unique ID	: 1020175d5
+Checksum: correct
+
+/dev/rssdd:
+
+ATA device, with non-removable media
+	Model Number:       DELL_P320h-MTFDGAL350SAH                
+	Serial Number:      00000000121302026023
+	Firmware Revision:  B1490208
+Standards:
+	Used: ATA/ATAPI-7 T13 1532D revision 4a 
+	Supported: 8 7 6 5 & some of 8
+Configuration:
+	Logical		max	current
+	cylinders	16383	16383
+	heads		15	15
+	sectors/track	63	63
+	--
+	CHS current addressable sectors:   15481935
+	LBA    user addressable sectors:  268435455
+	LBA48  user addressable sectors:  683747568
+	Logical  Sector size:                   512 bytes
+	Physical Sector size:                  4096 bytes
+	Logical Sector-0 offset:                  0 bytes
+	device size with M = 1024*1024:      333861 MBytes
+	device size with M = 1000*1000:      350078 MBytes (350 GB)
+	cache/buffer size  = unknown
+	Nominal Media Rotation Rate: Solid State Device
+Capabilities:
+	LBA, IORDY(can be disabled)
+	Queue depth: 32
+	Standby timer values: spec'd by Standard, no device specific minimum
+	R/W multiple sector transfer: Max = 16	Current = 16
+	DMA: mdma0 mdma1 mdma2 udma0 udma1 udma2 udma3 *udma4 udma5 udma6 
+	     Cycle time: min=120ns recommended=120ns
+	PIO: pio0 pio1 pio2 pio3 pio4 
+	     Cycle time: no flow control=120ns  IORDY flow control=120ns
+Commands/features:
+	Enabled	Supported:
+	   *	SMART feature set
+	    	Security Mode feature set
+	   *	Power Management feature set
+	   *	Host Protected Area feature set
+	   *	WRITE_BUFFER command
+	   *	READ_BUFFER command
+	   *	DOWNLOAD_MICROCODE
+	    	SET_MAX security extension
+	   *	48-bit Address feature set
+	   *	Device Configuration Overlay feature set
+	   *	Mandatory FLUSH_CACHE
+	   *	FLUSH_CACHE_EXT
+	   *	SMART error logging
+	   *	SMART self-test
+	   *	General Purpose Logging feature set
+	   *	WRITE_{DMA|MULTIPLE}_FUA_EXT
+	   *	64-bit World wide name
+	   *	Segmented DOWNLOAD_MICROCODE
+	   *	Gen1 signaling speed (1.5Gb/s)
+	   *	Gen2 signaling speed (3.0Gb/s)
+	   *	Native Command Queueing (NCQ)
+	   *	Non-Zero buffer offsets in DMA Setup FIS
+	    	DMA Setup Auto-Activate optimization
+	    	In-order data delivery
+Security: 
+	Master password revision code = 1
+		supported
+	not	enabled
+	not	locked
+	not	frozen
+	not	expired: security count
+	not	supported: enhanced erase
+	4min for SECURITY ERASE UNIT. 
+Logical Unit WWN Device Identifier: 500a075102026023
+	NAA		: 5
+	IEEE OUI	: 00a075
+	Unique ID	: 102026023
+Checksum: correct
