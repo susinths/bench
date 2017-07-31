@@ -5,5 +5,5 @@ Find more details at StorageReview: http://www.storagereview.com/micron_p320h_25
 Example of such a fio run:
 #time fio rsscd_ssd-steadystate.fio --output=rssdd-steady-state_2.log
 
-BEWARE these runs will DESTROY ALL DATA on your disks since the preconditioning is done by randomly writing over the drives in 3 loops!
+**BEWARE** these runs will **DESTROY ALL DATA** on your disks since the preconditioning is done by randomly writing over the drives in 3 loops!
 
