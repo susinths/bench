@@ -1,0 +1,3 @@
+This repo contains some results from running FIO on 4 of Micron P320h PCIe SSD drives that came with Dell PowerEdge 720.
+NB: these are obviously NOT NVMe based SSDs, but use some proprietary (mtip32xx) drivers. 
+  
